@@ -1,0 +1,26 @@
+{
+    "columns": {
+        "age": {
+            "sdtype": "numerical"
+        },
+        "sex": {
+            "sdtype": "categorical"
+        },
+        "bmi": {
+            "sdtype": "numerical"
+        },
+        "children": {
+            "sdtype": "numerical"
+        },
+        "smoker": {
+            "sdtype": "categorical"
+        },
+        "region": {
+            "sdtype": "categorical"
+        },
+        "expenses": {
+            "sdtype": "numerical"
+        }
+    },
+    "METADATA_SPEC_VERSION": "SINGLE_TABLE_V1"
+}
